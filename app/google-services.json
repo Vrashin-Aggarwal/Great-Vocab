@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "932392091904",
+    "firebase_url": "https://vocabulary-4fd53.firebaseio.com",
+    "project_id": "vocabulary-4fd53",
+    "storage_bucket": "vocabulary-4fd53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932392091904:android:7c62ac5c3088e86c",
+        "android_client_info": {
+          "package_name": "com.vrashinoriginals.greatvocab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932392091904-s2bpih8j4njnssds3990q9k5frbh48rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWDmkF5kRrRd6SPe5EqeBfHc7VKDwwLc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
